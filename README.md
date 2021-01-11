@@ -1,0 +1,2 @@
+# Hostel-Mess-Management
+This project is a demonstration of how a hostel mess website works. This project is web based project. The main purpose to build this project was to prevent the wastage of food in hostel. In this project the students login to the website and book the meals before the time provided. The total meals will be shown to the warden (admin), according to which the meals are prepared. 
